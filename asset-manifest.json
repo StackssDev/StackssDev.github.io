@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.91def639.css",
-    "main.js": "/static/js/main.7ad95f3b.js",
+    "main.css": "/static/css/main.b66f6f8b.css",
+    "main.js": "/static/js/main.4993bed2.js",
     "static/js/787.997b969d.chunk.js": "/static/js/787.997b969d.chunk.js",
     "static/media/about-big-logo.png": "/static/media/about-big-logo.5b9eadb1f885a5978891.png",
     "static/media/center4.png": "/static/media/center4.ab0bcda9d79fbb6f0824.png",
@@ -14,14 +14,19 @@
     "static/media/center2.png": "/static/media/center2.fe14583ab0496fca198b.png",
     "static/media/center7.png": "/static/media/center7.f974219d1ee2f78b7a3a.png",
     "static/media/center1.png": "/static/media/center1.af04ec60437164b8ff6c.png",
+    "static/media/p3.svg": "/static/media/p3.5490a97b92b6f5c51de484d193a7c5f9.svg",
     "static/media/center3.png": "/static/media/center3.f9ad607c62b5b0837ad7.png",
     "static/media/light.png": "/static/media/light.f866c44fb4e860f0a001.png",
     "static/media/img4.png": "/static/media/img4.30b15c71dc2f86f05f3f.png",
+    "static/media/p2.svg": "/static/media/p2.da103fbc47faad8f7f35fe96e3d72c68.svg",
     "static/media/img5.png": "/static/media/img5.05272e3a7052743cf66b.png",
     "static/media/center6.png": "/static/media/center6.12e41c8fb57876ce7787.png",
+    "static/media/p1.svg": "/static/media/p1.17b44469b1c97534ca5e41a3a7f6f296.svg",
     "static/media/img2.png": "/static/media/img2.6a7223abd30c83d695c0.png",
+    "static/media/p4.svg": "/static/media/p4.9dcd1eae2838aac5c96e1b02f81caa11.svg",
     "static/media/img3.png": "/static/media/img3.a3a9c780406a4b55b6b6.png",
     "static/media/card.png": "/static/media/card.ceef8c35f9409b3ed7a2.png",
+    "static/media/p5.svg": "/static/media/p5.320e031b98262126121434433f5e655a.svg",
     "static/media/img6.png": "/static/media/img6.b5d6ce72b2381201e46e.png",
     "static/media/GTEestiProText-Medium.woff": "/static/media/GTEestiProText-Medium.13f800a7ff4615f7c928.woff",
     "static/media/GTEestiProText-Regular.woff": "/static/media/GTEestiProText-Regular.05c8cee603cfe10335bd.woff",
@@ -32,12 +37,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.91def639.css.map": "/static/css/main.91def639.css.map",
-    "main.7ad95f3b.js.map": "/static/js/main.7ad95f3b.js.map",
+    "main.b66f6f8b.css.map": "/static/css/main.b66f6f8b.css.map",
+    "main.4993bed2.js.map": "/static/js/main.4993bed2.js.map",
     "787.997b969d.chunk.js.map": "/static/js/787.997b969d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91def639.css",
-    "static/js/main.7ad95f3b.js"
+    "static/css/main.b66f6f8b.css",
+    "static/js/main.4993bed2.js"
   ]
 }
